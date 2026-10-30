@@ -1,4 +1,4 @@
-# dynabook-support-utility-mod
+# dsu-mod
 
 dynabook Support Utility に独自プラグインを追加する非公式プロジェクトです。
 
@@ -42,3 +42,9 @@ powershell -ExecutionPolicy Bypass -File .\build-inject.ps1
 - Dynabook 製のバイナリやソースは含んでいません。
 - アプリの EULA / 利用規約、著作権、商標、各国の法令を確認してください。
 - 公開配布する場合は、権利者からの削除要請や規約違反のリスクがあります。
+
+## ライセンス
+
+このリポジトリのオリジナルコードは MIT License です。詳細は `LICENSE` を参照してください。
+
+MIT License は本リポジトリのコードにのみ適用されます。Dynabook Inc. のソフトウェア、バイナリ、商標、ドキュメントに関する権利は含みません。
