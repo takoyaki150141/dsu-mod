@@ -1,0 +1,14 @@
+dist/
+lib/*.dll
+tools/
+testbin/
+inject/*.dll
+inject/*.exe
+*.log
+*.status
+*.orig
+*.patched
+*.user
+.vs/
+bin/
+obj/
